@@ -1,0 +1,9 @@
+{
+  "id": "page-width-toggle",
+  "name": "페이지 너비 토글",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "노트별로 페이지 너비(wide/narrow)를 토글합니다.",
+  "author": "헌태",
+  "isDesktopOnly": false
+}
