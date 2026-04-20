@@ -1,9 +1,9 @@
 {
   "id": "page-width-toggle",
-  "name": "페이지 너비 토글",
+  "name": "Page Width Toggle",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "노트별로 페이지 너비(wide/narrow)를 토글합니다.",
-  "author": "헌태",
+  "description": "Toggle page width per note between default and wide with one click from the ribbon, command palette, right-click menu, or the note more-options menu.",
+  "author": "HEONO3H",
   "isDesktopOnly": false
 }
